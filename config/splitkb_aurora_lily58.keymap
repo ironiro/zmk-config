@@ -72,5 +72,3 @@
     chain-length = <58>;
 };
 
-&rgb_ug RGB_COLOR_HSB(128,100,100)
-
