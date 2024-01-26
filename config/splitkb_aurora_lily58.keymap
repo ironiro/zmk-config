@@ -70,8 +70,5 @@
         };
     };
 };
-&led_strip {
-    chain-length = <58>;
-    color-mapping= <LED_COLOR_ID_GREEN>;
-};
+
 
